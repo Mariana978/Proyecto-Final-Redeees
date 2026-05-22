@@ -1,0 +1,7 @@
+{
+  "nodo_id": "cliente-1",
+  "servidor_ip": "127.0.0.1",
+  "servidor_puerto": 5000,
+  "escuchar_puerto": 9001,
+  "intervalo_consulta": 5
+}

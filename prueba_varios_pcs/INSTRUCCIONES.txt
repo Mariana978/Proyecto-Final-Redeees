@@ -1,0 +1,24 @@
+DIA DE LA PRESENTACION - PASOS:
+
+1. Averigua la IP del PC servidor con: ipconfig
+   Busca "Direccion IPv4" -> ejemplo: 192.168.1.X
+
+2. En servidor: corre python servidor.py
+
+3. En cada PC cliente, crea un archivo config.json con esto:
+   {
+     "nodo_id": "cliente-1",        <- cambia el numero en cada PC
+     "servidor_ip": "192.168.1.X",  <- pon la IP real del servidor
+     "servidor_puerto": 5000,
+     "escuchar_puerto": 9000,
+     "intervalo_consulta": 5
+   }
+
+4. En cada PC cliente: corre python cliente.py config.json
+
+5. En interfaz.html cambia la linea:
+   const SERVIDOR = 'http://192.168.1.X:5000';
+   con la IP real del servidor y abrela en el navegador
+
+6. En el PC del generador: 
+   python generador.py --ip IP_DEL_CLIENTE --puerto 9000 --cantidad 5

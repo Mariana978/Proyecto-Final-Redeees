@@ -1,0 +1,17 @@
+[2026-05-22 18:28:22] Servidor iniciado
+[2026-05-22 18:28:23] Servidor iniciado
+[2026-05-22 18:28:47] Nodo conectado: cliente-1 desde 192.168.1.8
+[2026-05-22 18:28:57] Nodo conectado: cliente-2 desde 192.168.1.8
+[2026-05-22 18:29:07] Nodo conectado: cliente-3 desde 192.168.1.8
+[2026-05-22 18:34:52] Servidor iniciado
+[2026-05-22 18:34:53] Servidor iniciado
+[2026-05-22 18:34:57] Nodo cliente-1 cambiado a inactivo
+[2026-05-22 18:34:57] Nodo cliente-2 cambiado a inactivo
+[2026-05-22 18:34:57] Nodo cliente-3 cambiado a inactivo
+[2026-05-22 18:34:58] Nodo cliente-1 cambiado a inactivo
+[2026-05-22 18:34:58] Nodo cliente-2 cambiado a inactivo
+[2026-05-22 18:34:58] Nodo cliente-3 cambiado a inactivo
+[2026-05-22 18:35:13] Nodo conectado: cliente-1 desde 192.168.1.8
+[2026-05-22 18:35:20] Nodo conectado: cliente-2 desde 192.168.1.8
+[2026-05-22 18:35:25] Nodo conectado: cliente-3 desde 192.168.1.8
+[2026-05-22 18:35:53] Nodo cliente-2 cambiado a inactivo
